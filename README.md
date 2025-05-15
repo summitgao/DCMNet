@@ -1,12 +1,13 @@
-This repo holds the codes of our paper:
+# 📖 Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification (Submitted to IEEE TGRS)
 
-Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification
+This repository contains the code for our paper **"Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification."**
 
-submitted to IEEE TGRS.
+🔥 We hope that DCMNet proves helpful for your research. Thank you very much for your interest! 🔥
 
-The codes and data will be released soon.
+If you have any questions, please feel free to contact us:  
+**Email:** [linjyan00@163.com](mailto:linjyan00@163.com), [gaofeng@ouc.edu.cn](mailto:gaofeng@ouc.edu.cn)
 
-If you have any queries, please do not hesitate to contact me ( gaofeng@ouc.edu.cn ).
+---
 
 ## Dataset
 The dataset can be downloaded from the following link:  
@@ -20,4 +21,3 @@ The dataset can be downloaded from the following link:
 Run the following command:  
 ```bash
 python main.py
-
